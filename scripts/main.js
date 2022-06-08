@@ -12,7 +12,7 @@ linkfname.addEventListener('change', () => {
 linksname.addEventListener('change', () => {
     suname = linksname.value;
     console.log('Фамилия:', suname);
-    hello(funame, suname);
+    //hello(funame, suname);
 })
 
 buttonlink.addEventListener('click', () => {
